@@ -1,0 +1,1179 @@
+{
+ "country": "CA-BC",
+ "acts": [
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of British Columbia bills given Royal Assent (title, bill number, assent date and chapter number only)",
+   "url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 1,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1992-06-05",
+     "units": 28,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1992-06-23",
+     "units": 57,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1992-06-30",
+     "units": 69,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1992-07-03",
+     "units": 81,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1992-12-15",
+     "units": 82,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-03-31",
+     "units": 83,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-04-08",
+     "units": 84,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-05-26",
+     "units": 86,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-05-30",
+     "units": 88,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-06-18",
+     "units": 108,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-06-30",
+     "units": 112,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-07-08",
+     "units": 116,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1993-07-29",
+     "units": 156,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1994-03-31",
+     "units": 157,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1994-06-02",
+     "units": 172,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1994-06-10",
+     "units": 180,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1994-06-30",
+     "units": 189,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1994-07-08",
+     "units": 213,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-03-31",
+     "units": 214,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-04-12",
+     "units": 215,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-06-08",
+     "units": 230,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-06-21",
+     "units": 247,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-06-30",
+     "units": 260,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-07-06",
+     "units": 263,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1995-07-13",
+     "units": 268,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1996-04-28",
+     "units": 269,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1996-06-28",
+     "units": 270,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1996-07-16",
+     "units": 271,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1996-07-30",
+     "units": 285,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1996-08-15",
+     "units": 287,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1997-03-28",
+     "units": 288,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1997-04-11",
+     "units": 289,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1997-05-26",
+     "units": 297,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1997-06-27",
+     "units": 300,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1997-07-28",
+     "units": 331,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1997-07-30",
+     "units": 341,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1998-03-31",
+     "units": 342,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1998-05-13",
+     "units": 355,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1998-06-30",
+     "units": 361,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1998-07-30",
+     "units": 390,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1999-04-01",
+     "units": 391,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1999-04-26",
+     "units": 392,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1999-05-11",
+     "units": 394,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1999-06-29",
+     "units": 414,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "1999-07-15",
+     "units": 438,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2000-03-30",
+     "units": 439,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2000-04-02",
+     "units": 440,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2000-05-01",
+     "units": 442,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2000-06-12",
+     "units": 449,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2000-06-29",
+     "units": 457,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2000-07-06",
+     "units": 468,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-03-29",
+     "units": 475,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-04-11",
+     "units": 490,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-06-19",
+     "units": 491,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-07-31",
+     "units": 492,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-08-01",
+     "units": 493,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-08-09",
+     "units": 495,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-08-16",
+     "units": 502,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2001-08-27",
+     "units": 517,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-03-07",
+     "units": 519,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-03-14",
+     "units": 520,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-03-28",
+     "units": 523,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-04-11",
+     "units": 534,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-04-30",
+     "units": 536,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-05-09",
+     "units": 547,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-05-30",
+     "units": 569,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-10-31",
+     "units": 579,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-11-21",
+     "units": 587,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2002-11-26",
+     "units": 592,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-02-27",
+     "units": 593,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-03-12",
+     "units": 602,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-03-25",
+     "units": 604,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-03-27",
+     "units": 608,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-03-31",
+     "units": 609,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-04-10",
+     "units": 616,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-05-29",
+     "units": 637,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-10-23",
+     "units": 657,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-11-17",
+     "units": 676,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-11-20",
+     "units": 681,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2003-12-02",
+     "units": 692,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-02-26",
+     "units": 693,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-03-31",
+     "units": 704,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-04-29",
+     "units": 723,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-05-13",
+     "units": 736,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-05-20",
+     "units": 746,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-10-21",
+     "units": 764,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2004-10-26",
+     "units": 766,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2005-02-22",
+     "units": 768,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 783,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2005-03-10",
+     "units": 790,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2005-09-22",
+     "units": 792,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2005-10-07",
+     "units": 793,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2005-11-24",
+     "units": 807,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2006-03-28",
+     "units": 817,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2006-03-30",
+     "units": 824,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2006-05-18",
+     "units": 840,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2007-03-12",
+     "units": 844,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2007-03-29",
+     "units": 852,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2007-05-31",
+     "units": 872,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2007-11-22",
+     "units": 878,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2007-11-29",
+     "units": 882,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2008-02-28",
+     "units": 884,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2008-03-31",
+     "units": 890,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2008-05-01",
+     "units": 897,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2008-05-29",
+     "units": 923,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2008-11-27",
+     "units": 925,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-01-18",
+     "units": 926,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-02-16",
+     "units": 927,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-03-12",
+     "units": 932,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-03-31",
+     "units": 936,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-09-03",
+     "units": 937,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-10-29",
+     "units": 953,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-11-07",
+     "units": 954,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2009-11-26",
+     "units": 959,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2010-03-31",
+     "units": 963,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2010-04-29",
+     "units": 964,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2010-06-03",
+     "units": 981,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2011-02-17",
+     "units": 982,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2011-06-02",
+     "units": 995,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2011-11-14",
+     "units": 1000,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2011-11-24",
+     "units": 1008,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2012-03-15",
+     "units": 1009,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2012-03-29",
+     "units": 1010,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2012-05-14",
+     "units": 1019,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2012-05-31",
+     "units": 1036,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2013-02-28",
+     "units": 1037,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2013-03-14",
+     "units": 1052,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2013-07-25",
+     "units": 1053,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2014-03-24",
+     "units": 1059,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2014-04-09",
+     "units": 1064,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2014-05-29",
+     "units": 1078,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2014-11-27",
+     "units": 1086,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2015-03-25",
+     "units": 1095,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2015-05-14",
+     "units": 1110,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2015-05-28",
+     "units": 1113,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2015-07-21",
+     "units": 1115,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2015-11-17",
+     "units": 1127,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2016-03-10",
+     "units": 1132,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2016-05-19",
+     "units": 1151,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2016-07-28",
+     "units": 1153,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2017-03-16",
+     "units": 1160,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2017-09-21",
+     "units": 1161,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 1162,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2017-11-02",
+     "units": 1170,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2017-11-30",
+     "units": 1174,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 1178,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2018-05-17",
+     "units": 1196,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2018-05-31",
+     "units": 1207,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2018-10-31",
+     "units": 1212,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2018-11-08",
+     "units": 1218,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2018-11-27",
+     "units": 1229,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2019-03-25",
+     "units": 1234,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2019-04-11",
+     "units": 1236,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2019-05-16",
+     "units": 1254,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2019-05-30",
+     "units": 1261,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2019-10-31",
+     "units": 1265,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 1274,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2020-03-05",
+     "units": 1278,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2020-03-23",
+     "units": 1280,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 1282,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2020-08-14",
+     "units": 1294,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 1296,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2021-03-25",
+     "units": 1304,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2021-04-27",
+     "units": 1305,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2021-05-20",
+     "units": 1309,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2021-06-17",
+     "units": 1315,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 1321,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2021-11-25",
+     "units": 1333,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2022-03-10",
+     "units": 1337,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2022-03-31",
+     "units": 1342,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 1356,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 1366,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2022-11-24",
+     "units": 1375,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2023-03-09",
+     "units": 1382,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2023-03-30",
+     "units": 1386,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2023-05-11",
+     "units": 1402,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2023-10-26",
+     "units": 1406,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2023-11-08",
+     "units": 1413,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2023-11-30",
+     "units": 1422,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2024-03-14",
+     "units": 1429,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 1438,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2024-05-16",
+     "units": 1449,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 1454,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2025-05-29",
+     "units": 1463,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 1471,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 1476,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 1482,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 1486,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2026-04-16",
+     "units": 1495,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2026-05-21",
+     "units": 1498,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    },
+    {
+     "from": "2026-05-28",
+     "units": 1502,
+     "source_url": "https://www.leg.bc.ca/parliamentary-business/bills-and-legislation",
+     "sha256": "370de2540fb2da72fb5585393fa9c2d3ebfa3b351748a31d346f37c18f57588e"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "British Columbia: legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q1973",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 4,
+     "source_url": "https://www.wikidata.org/wiki/Q1973",
+     "sha256": "wikidata-entity-Q1973"
+    }
+   ]
+  }
+ ]
+}
